@@ -8,7 +8,7 @@ from sklearn.model_selection import cross_val_score
 
 
 # Input file containing data
-input_file = 'income_data.txt'
+input_file = "income_data.txt"
 
 # Read the data
 X = []
